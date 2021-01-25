@@ -1,2 +1,1 @@
-# hwid "spoofer" aka registry key changer
-very shit don't use on good anticheats
+LD PLAYER BYPASS (C#) (SINKICHEAT.COM)

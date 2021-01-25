@@ -1,0 +1,254 @@
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\GameOverlay.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\Newtonsoft.Json.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\RestSharp.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\SharpDX.Direct2D1.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\SharpDX.DXGI.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\SharpDX.Mathematics.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\PUBESP.LOGINFORM.resources
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\PUBGMESP.MainForm.resources
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\JOY.Properties.Resources.resources
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\JOY 7.1.csproj.GenerateResource.cache
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\JOY 7.1.csproj.CoreCompileInputs.cache
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\JOY 7.1.csproj.Fody.CopyLocal.cache
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\JOY 7.1.csproj.CopyComplete
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\JOY7.1.exe.config
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\JOY7.1.exe
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\JOY7.1.pdb
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\JOY7.1.exe
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\JOY7.1.pdb
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\JOY 7.1.csprojAssemblyReference.cache
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\GameOverlay.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\Newtonsoft.Json.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\RestSharp.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\SharpDX.Direct2D1.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\SharpDX.DXGI.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\SharpDX.Mathematics.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\PUBESP.LOGINFORM.resources
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\PUBGMESP.MainForm.resources
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY.Properties.Resources.resources
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.GenerateResource.cache
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.CoreCompileInputs.cache
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.Fody.CopyLocal.cache
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.CopyComplete
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\CheckBoxRadio.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\Xamarin.Forms.Core.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csprojAssemblyReference.cache
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\11.3.exe.config
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\11.3.exe
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\11.3.pdb
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\11.3.exe
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\11.3.pdb
+D:\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY.success.resources
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\PUBESP.LOGINFORM.resources
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY.Properties.Resources.resources
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.GenerateResource.cache
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.CoreCompileInputs.cache
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\11.3.exe
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\11.3.pdb
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\11.3.exe.config
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\11.3.exe
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\11.3.pdb
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\CheckBoxRadio.xml
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\GameOverlay.xml
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\RestSharp.xml
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\PUBGMESP.MainForm.resources
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.Fody.CopyLocal.cache
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.CopyComplete
+C:\Users\Dines\Desktop\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csprojAssemblyReference.cache
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\CheckBoxRadio.xml
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\GameOverlay.xml
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\Newtonsoft.Json.xml
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\RestSharp.xml
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\SharpDX.Direct2D1.xml
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\SharpDX.DXGI.xml
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\SharpDX.Mathematics.xml
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\Xamarin.Forms.Core.xml
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\PUBESP.LOGINFORM.resources
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\PUBGMESP.MainForm.resources
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY.Properties.Resources.resources
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.GenerateResource.cache
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.CoreCompileInputs.cache
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.Fody.CopyLocal.cache
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.CopyComplete
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\JOY X.exe.config
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\JOY X.exe
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\JOY X.pdb
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csprojAssemblyReference.cache
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY X.exe
+D:\JOY\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY X.pdb
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\CheckBoxRadio.xml
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\GameOverlay.xml
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\Newtonsoft.Json.xml
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\RestSharp.xml
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\SharpDX.Direct2D1.xml
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\SharpDX.DXGI.xml
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\SharpDX.Mathematics.xml
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\Xamarin.Forms.Core.xml
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\PUBESP.LOGINFORM.resources
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\PUBGMESP.MainForm.resources
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY.Properties.Resources.resources
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.GenerateResource.cache
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.CoreCompileInputs.cache
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.Fody.CopyLocal.cache
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY 7.1.csproj.CopyComplete
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\JOY X.7.exe.config
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\JOY X.7.exe
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\bin\Debug\JOY X.7.pdb
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY X.7.exe
+D:\JOY\backup\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\MAKEEREER - Copy\PUBGM-ESP-AIMBOT-master\joy\obj\Debug\JOY X.7.pdb
+D:\joy\bin\Debug\JOY X.7.exe.config
+D:\joy\bin\Debug\JOY X.7.exe
+D:\joy\bin\Debug\JOY X.7.pdb
+D:\joy\bin\Debug\CheckBoxRadio.xml
+D:\joy\bin\Debug\GameOverlay.xml
+D:\joy\bin\Debug\Newtonsoft.Json.xml
+D:\joy\bin\Debug\RestSharp.xml
+D:\joy\bin\Debug\SharpDX.Direct2D1.xml
+D:\joy\bin\Debug\SharpDX.DXGI.xml
+D:\joy\bin\Debug\SharpDX.Mathematics.xml
+D:\joy\bin\Debug\Xamarin.Forms.Core.xml
+D:\joy\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\joy\obj\Debug\JOY 7.1.csprojAssemblyReference.cache
+D:\joy\obj\Debug\PUBESP.LOGINFORM.resources
+D:\joy\obj\Debug\PUBGMESP.MainForm.resources
+D:\joy\obj\Debug\JOY.Properties.Resources.resources
+D:\joy\obj\Debug\JOY 7.1.csproj.GenerateResource.cache
+D:\joy\obj\Debug\JOY 7.1.csproj.CoreCompileInputs.cache
+D:\joy\obj\Debug\JOY 7.1.csproj.Fody.CopyLocal.cache
+D:\joy\obj\Debug\JOY 7.1.csproj.CopyComplete
+D:\joy\obj\Debug\JOY X.7.exe
+D:\joy\obj\Debug\JOY X.7.pdb
+C:\Users\Dines\Downloads\joy\joy\bin\Debug\JOY X.7.exe.config
+C:\Users\Dines\Downloads\joy\joy\bin\Debug\JOY X.7.exe
+C:\Users\Dines\Downloads\joy\joy\bin\Debug\JOY X.7.pdb
+C:\Users\Dines\Downloads\joy\joy\bin\Debug\CheckBoxRadio.xml
+C:\Users\Dines\Downloads\joy\joy\bin\Debug\GameOverlay.xml
+C:\Users\Dines\Downloads\joy\joy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dines\Downloads\joy\joy\bin\Debug\RestSharp.xml
+C:\Users\Dines\Downloads\joy\joy\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Dines\Downloads\joy\joy\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Dines\Downloads\joy\joy\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Dines\Downloads\joy\joy\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Dines\Downloads\joy\joy\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Dines\Downloads\joy\joy\obj\Debug\PUBESP.LOGINFORM.resources
+C:\Users\Dines\Downloads\joy\joy\obj\Debug\PUBGMESP.MainForm.resources
+C:\Users\Dines\Downloads\joy\joy\obj\Debug\JOY.Properties.Resources.resources
+C:\Users\Dines\Downloads\joy\joy\obj\Debug\JOY 7.1.csproj.GenerateResource.cache
+C:\Users\Dines\Downloads\joy\joy\obj\Debug\JOY 7.1.csproj.CoreCompileInputs.cache
+C:\Users\Dines\Downloads\joy\joy\obj\Debug\JOY 7.1.csproj.Fody.CopyLocal.cache
+C:\Users\Dines\Downloads\joy\joy\obj\Debug\JOY 7.1.csproj.CopyComplete
+C:\Users\Dines\Downloads\joy\joy\obj\Debug\JOY X.7.exe
+C:\Users\Dines\Downloads\joy\joy\obj\Debug\JOY X.7.pdb
+D:\JOY\joy\bin\Debug\CheckBoxRadio.xml
+D:\JOY\joy\bin\Debug\GameOverlay.xml
+D:\JOY\joy\bin\Debug\Newtonsoft.Json.xml
+D:\JOY\joy\bin\Debug\RestSharp.xml
+D:\JOY\joy\bin\Debug\SharpDX.Direct2D1.xml
+D:\JOY\joy\bin\Debug\SharpDX.DXGI.xml
+D:\JOY\joy\bin\Debug\SharpDX.Mathematics.xml
+D:\JOY\joy\bin\Debug\Xamarin.Forms.Core.xml
+D:\JOY\joy\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\JOY\joy\obj\Debug\PUBESP.LOGINFORM.resources
+D:\JOY\joy\obj\Debug\PUBGMESP.MainForm.resources
+D:\JOY\joy\obj\Debug\JOY.Properties.Resources.resources
+D:\JOY\joy\obj\Debug\JOY 7.1.csproj.GenerateResource.cache
+D:\JOY\joy\obj\Debug\JOY 7.1.csproj.CoreCompileInputs.cache
+D:\JOY\joy\obj\Debug\JOY 7.1.csproj.Fody.CopyLocal.cache
+D:\JOY\joy\obj\Debug\JOY 7.1.csproj.CopyComplete
+D:\JOY\joy\bin\Debug\JOY.exe.config
+D:\JOY\joy\bin\Debug\JOY.exe
+D:\JOY\joy\bin\Debug\JOY.pdb
+D:\JOY\joy\obj\Debug\JOY 7.1.csprojAssemblyReference.cache
+D:\JOY\joy\obj\Debug\JOY.exe
+D:\JOY\joy\obj\Debug\JOY.pdb
+D:\JOY\joy\joy\bin\Debug\JOY.exe.config
+D:\JOY\joy\joy\bin\Debug\JOY.exe
+D:\JOY\joy\joy\bin\Debug\JOY.pdb
+D:\JOY\joy\joy\bin\Debug\GameOverlay.xml
+D:\JOY\joy\joy\bin\Debug\Newtonsoft.Json.xml
+D:\JOY\joy\joy\bin\Debug\SharpDX.DXGI.xml
+D:\JOY\joy\joy\bin\Debug\SharpDX.Mathematics.xml
+D:\JOY\joy\joy\obj\Debug\PUBESP.LOGINFORM.resources
+D:\JOY\joy\joy\obj\Debug\PUBGMESP.MainForm.resources
+D:\JOY\joy\joy\obj\Debug\JOY.Properties.Resources.resources
+D:\JOY\joy\joy\obj\Debug\JOY 7.1.csproj.GenerateResource.cache
+D:\JOY\joy\joy\obj\Debug\JOY 7.1.csproj.CoreCompileInputs.cache
+D:\JOY\joy\joy\obj\Debug\JOY 7.1.csproj.Fody.CopyLocal.cache
+D:\JOY\joy\joy\obj\Debug\JOY 7.1.csproj.CopyComplete
+D:\JOY\joy\joy\obj\Debug\JOY.exe
+D:\JOY\joy\joy\obj\Debug\JOY.pdb
+D:\JOY\joy\joy\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\PC\Desktop\joy\obj\Debug\PUBGMESP.MainForm.resources
+C:\Users\PC\Desktop\joy\obj\Debug\JOY.Properties.Resources.resources
+C:\Users\PC\Desktop\joy\obj\Debug\JOY 7.1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\joy\obj\Debug\JOY 7.1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\joy\obj\Debug\JOY.exe
+C:\Users\PC\Desktop\joy\obj\Debug\JOY.pdb
+C:\Users\PC\Desktop\joy\bin\Debug\JOY.exe.config
+C:\Users\PC\Desktop\joy\bin\Debug\JOY.exe
+C:\Users\PC\Desktop\joy\bin\Debug\JOY.pdb
+C:\Users\PC\Desktop\joy\bin\Debug\GameOverlay.xml
+C:\Users\PC\Desktop\joy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\joy\bin\Debug\SharpDX.DXGI.xml
+C:\Users\PC\Desktop\joy\obj\Debug\JOY 7.1.csproj.Fody.CopyLocal.cache
+C:\Users\PC\Desktop\joy\obj\Debug\JOY 7.1.csproj.CopyComplete
+C:\Users\PC\Desktop\joy\obj\Debug\JOY.Login.resources
+C:\Users\PC\Desktop\joy\obj\Debug\JOY.Register.resources
+C:\Users\PC\Desktop\FDGER5\joy\bin\Debug\JOY.exe.config
+C:\Users\PC\Desktop\FDGER5\joy\bin\Debug\JOY.exe
+C:\Users\PC\Desktop\FDGER5\joy\bin\Debug\JOY.pdb
+C:\Users\PC\Desktop\FDGER5\joy\bin\Debug\GameOverlay.xml
+C:\Users\PC\Desktop\FDGER5\joy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\FDGER5\joy\bin\Debug\SharpDX.DXGI.xml
+C:\Users\PC\Desktop\FDGER5\joy\obj\Debug\JOY.Login.resources
+C:\Users\PC\Desktop\FDGER5\joy\obj\Debug\JOY.Register.resources
+C:\Users\PC\Desktop\FDGER5\joy\obj\Debug\PUBGMESP.MainForm.resources
+C:\Users\PC\Desktop\FDGER5\joy\obj\Debug\JOY.Properties.Resources.resources
+C:\Users\PC\Desktop\FDGER5\joy\obj\Debug\JOY 7.1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\FDGER5\joy\obj\Debug\JOY 7.1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\FDGER5\joy\obj\Debug\JOY 7.1.csproj.Fody.CopyLocal.cache
+C:\Users\PC\Desktop\FDGER5\joy\obj\Debug\JOY 7.1.csproj.CopyComplete
+C:\Users\PC\Desktop\FDGER5\joy\obj\Debug\JOY.exe
+C:\Users\PC\Desktop\FDGER5\joy\obj\Debug\JOY.pdb
+C:\Users\PC\Desktop\FDGER5\joy\obj\Debug\JOY 7.1.csprojAssemblyReference.cache
+D:\JOY\JOY SAFE\joy (2)\joy\bin\Debug\JOY.exe.config
+D:\JOY\JOY SAFE\joy (2)\joy\bin\Debug\JOY.exe
+D:\JOY\JOY SAFE\joy (2)\joy\bin\Debug\JOY.pdb
+D:\JOY\JOY SAFE\joy (2)\joy\bin\Debug\GameOverlay.xml
+D:\JOY\JOY SAFE\joy (2)\joy\bin\Debug\Newtonsoft.Json.xml
+D:\JOY\JOY SAFE\joy (2)\joy\bin\Debug\SharpDX.DXGI.xml
+D:\JOY\JOY SAFE\joy (2)\joy\obj\Debug\JOY.Login.resources
+D:\JOY\JOY SAFE\joy (2)\joy\obj\Debug\JOY.Register.resources
+D:\JOY\JOY SAFE\joy (2)\joy\obj\Debug\PUBGMESP.MainForm.resources
+D:\JOY\JOY SAFE\joy (2)\joy\obj\Debug\JOY.Properties.Resources.resources
+D:\JOY\JOY SAFE\joy (2)\joy\obj\Debug\JOY 7.1.csproj.GenerateResource.cache
+D:\JOY\JOY SAFE\joy (2)\joy\obj\Debug\JOY 7.1.csproj.CoreCompileInputs.cache
+D:\JOY\JOY SAFE\joy (2)\joy\obj\Debug\JOY 7.1.csproj.Fody.CopyLocal.cache
+D:\JOY\JOY SAFE\joy (2)\joy\obj\Debug\JOY 7.1.csproj.CopyComplete
+D:\JOY\JOY SAFE\joy (2)\joy\obj\Debug\JOY.exe
+D:\JOY\JOY SAFE\joy (2)\joy\obj\Debug\JOY.pdb
+D:\JOY\JOY SAFE\joy (2)\joy\obj\Debug\JOY 7.1.csprojAssemblyReference.cache
+E:\joy\bin\Debug\JOY.exe.config
+E:\joy\bin\Debug\JOY.exe
+E:\joy\bin\Debug\JOY.pdb
+E:\joy\bin\Debug\GameOverlay.xml
+E:\joy\bin\Debug\Newtonsoft.Json.xml
+E:\joy\bin\Debug\SharpDX.DXGI.xml
+E:\joy\obj\Debug\PUBGMESP.MainForm.resources
+E:\joy\obj\Debug\JOY.Properties.Resources.resources
+E:\joy\obj\Debug\JOY 7.1.csproj.GenerateResource.cache
+E:\joy\obj\Debug\JOY 7.1.csproj.CoreCompileInputs.cache
+E:\joy\obj\Debug\JOY 7.1.csproj.Fody.CopyLocal.cache
+E:\joy\obj\Debug\JOY 7.1.csproj.CopyComplete
+E:\joy\obj\Debug\JOY.exe
+E:\joy\obj\Debug\JOY.pdb
+E:\joy\obj\Debug\JOY 7.1.csprojAssemblyReference.cache
